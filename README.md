@@ -1,6 +1,5 @@
 ## Hai Theree👋,
 <div align = center>
-<img scr="https://github.com/muhammadridhoni/muhammadridhoni/assets/110298642/dc57a308-ceb8-4510-b583-7baadbf2414f" >
 
 <div align = left>
 
@@ -16,7 +15,8 @@ Saya Muhammad Ridhoni
 
 -Hobi saya adalah bermain sepak bola dan nonton bola
 
-<p>
+</details>
+</p>
 <h3 align= "center">Perlu?  
   
 </div>
