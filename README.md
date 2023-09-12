@@ -1,7 +1,5 @@
 ## Hai Theree👋,
 <div align = center>
-  <img scr="https://github.com/muhammadridhoni/muhammadridhoni/assets/110298642/ce24d47f-60d1-404c-8759-fe9238dcef0f)
-dridhoni/muhammadridhoni/assets/110298642/92c22f5a-72ac-4c93-89f0-40dd03c683b0" width="200" height="100" />
 
 <div align = left>
 
