@@ -1,7 +1,17 @@
-### Hai Theree👋, Saya Muhammad Ridhoni
-🎒Saya adalah mahasiswa semester 3
+## Hai Theree👋, 
 
-🌏Saya sedang mempelajari Geofisika
+<p>
+<div>
+<details>
+<summary>Tentang Saya</summary>
+
+Saya Muhammad Ridhoni yayayaya
+
+-🎒Saya adalah mahasiswa semester 3
+
+-Saya sedang mempelajari Geofisika🌏
+
+-Hobi saya adalah bermain sepak bola
 
 <h3 align= "center">Perlu?  
   
